@@ -1,3 +1,10 @@
+  # Author     : Sanjaykumar.M
+  # Date       : 08-02-2024
+  # Description: Comparision Operators
+  # Batch time : 4.00 - 7.00pm
+
+#operators and examples
+
 x = int(input("Enter the value :"))
 y = int(input("Enter the value :"))
 
